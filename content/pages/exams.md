@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the final exam for the course, solutions to the
   final exam, and the final exam from the 2009 version of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
